@@ -1,6 +1,0 @@
-name: dummy_package
-dependencies:
-  test: any
-  unittest: '>=0.11.6 <0.12.0'
-  analyzer: any
-  path: any
